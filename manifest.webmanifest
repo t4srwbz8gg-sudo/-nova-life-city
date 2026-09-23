@@ -1,0 +1,9 @@
+{
+  "name":"NOVA - 毎日の行動が、自分だけの街になる。",
+  "short_name":"NOVA",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#eef9ff",
+  "theme_color":"#eaf7ff",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
